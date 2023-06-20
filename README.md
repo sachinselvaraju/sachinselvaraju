@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sachinselvaraju
+- 👋 Hi, I’m Sachin S
 - 👀 I’m interested in Business
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking for jobs
